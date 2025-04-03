@@ -3,7 +3,7 @@
 Hey, I’m Kenny.
 I build cool things, break stuff occasionally, and somehow make it work again.
 
-Currently coding in React, mostly for Web Dev, AI, and ML, plus whatever seems interesting at 2 AM. Powered by caffeine, long motorcycle rides, and an endless obsession with tweaking UIs.
+Currently coding in React and Python, mostly for Web Dev, AI, ML, plus whatever seems interesting at 2 AM. Powered by caffeine, long motorcycle rides, and an endless obsession with tweaking UIs.
 
 By day, I’m at Manipal University Jaipur. By night, probably debugging something that should’ve worked.
 
