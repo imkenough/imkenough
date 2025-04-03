@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Hey, I’m Kenny.
+I build cool things, break stuff occasionally, and somehow make it work again.
+
+Currently coding in React, mostly for Web Dev, AI, and ML, plus whatever seems interesting at 2 AM. Powered by caffeine, long motorcycle rides, and an endless obsession with tweaking UIs.
+
+By day, I’m at Manipal University Jaipur. By night, probably debugging something that should’ve worked.
+
+Want to reach me? khaneesh50@gmail.com.
 <!--
 **imkenough/imkenough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
